@@ -1,4 +1,4 @@
-#Fraud Detection Analysis (EDA & Feature Importance Analysis)
+# Fraud Detection Analysis (EDA & Feature Importance Analysis)
 
 Fraud Detection EDA Project
 This project focuses on Exploratory Data Analysis (EDA) for detecting fraudulent transactions. The dataset used in this analysis is balanced_dataset_50_50.csv, which contains various features related to financial transactions.
