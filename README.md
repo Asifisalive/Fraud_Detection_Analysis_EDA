@@ -7,19 +7,19 @@ This project focuses on Exploratory Data Analysis (EDA) for detecting fraudulent
 The goal of this project is to analyze the dataset to identify patterns and features that distinguish fraudulent transactions from non-fraudulent ones. The EDA process includes data loading, data visualization, and preliminary feature importance analysis using a Random Forest classifier.
 
 ## Key Steps
-1.Data Loading and Inspection:
+### 1.Data Loading and Inspection:
 
   Read the dataset into a pandas DataFrame.
 
   Display the first few rows, basic information, and summary statistics.
 
-2.Missing Values Analysis:
+### 2.Missing Values Analysis:
 
   Check for missing values in the dataset.
 
   Visualize missing values using a heatmap.
 
-3.Data Visualization:
+### 3.Data Visualization:
 
   Plot histograms to understand the distribution of numerical features.
 
@@ -35,11 +35,11 @@ The goal of this project is to analyze the dataset to identify patterns and feat
 
   Plot distribution plots and scatter plots for numerical features.
 
-4.Fraud Rate Analysis:
+### 4.Fraud Rate Analysis:
 
   Calculate and plot the fraud rate for the top 20 recipients by fraud rate.
 
-5.Feature Importance Analysis:
+### 5.Feature Importance Analysis:
 
   Prepare the data by identifying and encoding categorical columns.
 
